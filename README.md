@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Software Developer from Serbia, focused on building robust web applications and open-source tools. I love sharing knowledge and helping the developer community.
+Senior Backend Engineer with 10+ years of experience building and shipping PHP/Laravel applications. I care about clean architecture, tested code, and systems that hold up in production.
 
 ## 🛠️ Skills
 
@@ -18,19 +18,26 @@ I'm a passionate Software Developer from Serbia, focused on building robust web 
 ![][sqlite-badge]\
 ![][laravel-badge]
 ![][vue-js-badge]
-![][next-js-badge]
+![][next-js-badge]\
+![][phpunit-badge]
+![][docker-badge]
+![][vagrant-badge]
 
-## 🚀 Projects
+## 🚀 Live Projects
 
-- [Starboard][starboard]: All your favorite creators, one central view.
-- [Libraryfy][libraryfy]: App for managing your personal library.
+- [Starboard][starboard]: Social media profile aggregator.
+- [Libraryfy][libraryfy]: Borrowing and exchanging books between users.
+
 
 ## 📢 Open Source Projects
 
-- [Todo API][todo-api]: A sample application built with Laravel 12.
-- [Python Scripts][python-scripts]: It's an improved Python version of [shell scripts][shell-scripts].
-- [Shell Scripts][shell-scripts]: Custom Unix shell scripts for various tasks.
-- [Ultimate Cheatsheet][cheatsheet]: A comprehensive cheatsheet for developers.
+- [Standalone Python automation toolkit][python-scripts-repo]
+- [A comprehensive cheatsheet for developers][cheatsheet-repo]
+
+## 📍 Laravel Projects
+
+- [Tracking and managing favorite creators][starboard-repo]
+- [Laravel REST API patterns showcase][todo-api-repo]
 
 ## 📫 Let's Connect
 
@@ -55,6 +62,9 @@ I'm a passionate Software Developer from Serbia, focused on building robust web 
 [laravel-badge]: https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white
 [next-js-badge]: https://img.shields.io/badge/Next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white
 [vue-js-badge]: https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white
+[docker-badge]: https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white
+[vagrant-badge]: https://img.shields.io/badge/Vagrant-1868F2.svg?style=for-the-badge&logo=vagrant&logoColor=white
+[phpunit-badge]: https://img.shields.io/badge/PHPUnit-366488.svg?style=for-the-badge&logo=php&logoColor=white
 
 [linkedin-badge]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
 [x-badge]: https://img.shields.io/badge/x-%230077B5.svg?&style=for-the-badge&logo=x&logoColor=white&color=000000
@@ -65,12 +75,10 @@ I'm a passionate Software Developer from Serbia, focused on building robust web 
 [website]: https://www.zlatanstajic.com
 [libraryfy]: https://libraryfy.zlatanstajic.com
 [starboard]: https://starboard.zlatanstajic.com
-[cheatsheet]: https://github.com/zlatanstajic/ultimate-cheatsheet-for-developers
-[shell-scripts]: https://github.com/zlatanstajic/shell-scripts
-[python-scripts]: https://github.com/zlatanstajic/python_scripts
-[todo-api]: https://github.com/zlatanstajic/todo-api
-[half-marathon]: https://en.wikipedia.org/wiki/Half_marathon
-
+[cheatsheet-repo]: https://github.com/zlatanstajic/ultimate-cheatsheet-for-developers
+[python-scripts-repo]: https://github.com/zlatanstajic/python_scripts
+[starboard-repo]: https://github.com/zlatanstajic/starboard
+[todo-api-repo]: https://github.com/zlatanstajic/todo-api
 [linkedin]: https://www.linkedin.com/in/zlatanstajic/
 [instagram]: https://instagram.com/zlatanshere
 [youtube]: https://youtube.com/@zlatanshere
