@@ -21,7 +21,8 @@ Senior Backend Engineer with 10+ years of experience building and shipping PHP/L
 ![][next-js-badge]\
 ![][phpunit-badge]
 ![][docker-badge]
-![][vagrant-badge]
+![][vagrant-badge]\
+![][claude-badge]
 
 ## 🚀 Live Projects
 
@@ -38,6 +39,10 @@ Senior Backend Engineer with 10+ years of experience building and shipping PHP/L
 
 - [Tracking and managing favorite creators][starboard-repo]
 - [Laravel REST API patterns showcase][todo-api-repo]
+
+## 🎓 Certifications
+
+- [Completed Anthropic's Claude and AI Fluency courses](certifications/anthropic)
 
 ## 📫 Let's Connect
 
@@ -65,6 +70,7 @@ Senior Backend Engineer with 10+ years of experience building and shipping PHP/L
 [docker-badge]: https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white
 [vagrant-badge]: https://img.shields.io/badge/Vagrant-1868F2.svg?style=for-the-badge&logo=vagrant&logoColor=white
 [phpunit-badge]: https://img.shields.io/badge/PHPUnit-366488.svg?style=for-the-badge&logo=php&logoColor=white
+[claude-badge]: https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=claude&logoColor=white
 
 [linkedin-badge]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
 [x-badge]: https://img.shields.io/badge/x-%230077B5.svg?&style=for-the-badge&logo=x&logoColor=white&color=000000
