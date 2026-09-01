@@ -38,10 +38,12 @@ Senior Backend Engineer with 10+ years of experience designing, building, and op
 - <img src="https://raw.githubusercontent.com/zlatanstajic/need-umbrella/master/assets/img/apple-touch-icon.png" width="16" height="16" alt=""> [Need Umbrella][need-umbrella]: Single-page weather app for anywhere in the world.
 - <img src="https://metal-filipovic.com/assets/img/logo.png" width="16" height="16" alt=""> [Metal Filipović][metal-filipovic]: Family workshop crafting metalwork for construction and interiors.
 - <img src="https://raw.githubusercontent.com/zlatanstajic/breaking-bad-archives/master/public/images/logo.png" width="16" height="16" alt=""> [Breaking Bad Archives][breaking-bad-archives]: Searchable archive of Breaking Bad characters, quotes, and series information.
+- <img src="https://raw.githubusercontent.com/zlatanstajic/space-prospection/master/assets/images/favicon.png" width="16" height="16" alt=""> [Space Prospection][space-prospection]: CodeIgniter MVC showcase about space exploration and the search for extraterrestrial life.
 
 ## <img src="https://github.githubassets.com/favicons/favicon.png" width="20" height="20" alt=""> GitHub Repositories
 
 - [PHP Library][php-library-repo]: PHP 8.5 utility library modernized from an earlier PHP 7 codebase.
+- [Kiyosaki][kiyosaki-repo]: PHP 8.5 library and command-line application for Serbian Loto history, constrained generation, and result analysis.
 - [Ultimate Cheatsheet for Developers][cheatsheet-repo]: A comprehensive cheatsheet for developers.
 - [Shell Scripts][shell-scripts-repo]: Bash utility scripts for Unix developer workflows.
 - [Python Scripts][python-scripts-repo]: Python automation toolkit for developer workflows.
@@ -103,8 +105,10 @@ Senior Backend Engineer with 10+ years of experience designing, building, and op
 [need-umbrella]: https://zlatanstajic.github.io/need-umbrella/
 [metal-filipovic]: https://metal-filipovic.com/
 [breaking-bad-archives]: https://breaking-bad-archives.netlify.app/
+[space-prospection]: https://zlatanstajic.github.io/space-prospection/
 [etablica]: https://etablica.rs
 [php-library-repo]: https://github.com/zlatanstajic/php-library
+[kiyosaki-repo]: https://github.com/zlatanstajic/kiyosaki
 [cheatsheet-repo]: https://github.com/zlatanstajic/ultimate-cheatsheet-for-developers
 [shell-scripts-repo]: https://github.com/zlatanstajic/shell-scripts
 [python-scripts-repo]: https://github.com/zlatanstajic/python_scripts
