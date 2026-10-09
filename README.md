@@ -27,7 +27,7 @@ I'm Zlatan Stajic, a Senior Backend Engineer with 10+ years of experience design
 ## 📦 Featured Projects
 
 - <img src="https://raw.githubusercontent.com/zlatanstajic/starboard/master/public/logo.png" width="16" height="16" alt=""> [Starboard][starboard]: Laravel social media profile aggregator running in production.
-- 🌐 [Todo API][todo-api]: Laravel REST API with Sanctum authentication and interactive OpenAPI documentation.
+- 🌐 [Laravel API Blueprint][laravel-api-blueprint]: Laravel REST API with Sanctum authentication and interactive OpenAPI documentation.
 - <img src="https://zlatanstajic.github.io/php-library/_static/phplibrary-icon.png" width="16" height="16" alt=""> [PHP Library][php-library]: PHP 8.5 utility library modernized from an earlier PHP 7 codebase.
 - 🌐 [Kiyosaki][kiyosaki]: PHP 8.5 library and command-line application for Serbian Loto history, constrained generation, and result analysis.
 
@@ -72,7 +72,7 @@ See my complete portfolio, open-source work, and project details at:
 [website]: https://zlatanstajic.com
 [profile-views-link]: https://github.com/zlatanstajic/zlatanstajic
 [starboard]: https://starboard.zlatanstajic.com
-[todo-api]: https://zlatanstajic.github.io/todo-api/
+[laravel-api-blueprint]: https://zlatanstajic.github.io/laravel-api-blueprint/
 [php-library]: https://zlatanstajic.github.io/php-library/
 [kiyosaki]: https://zlatanstajic.github.io/kiyosaki/
 [anthropic-courses]: certifications/anthropic
