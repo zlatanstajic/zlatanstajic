@@ -39,7 +39,7 @@ See my complete portfolio, open-source work, and project details at:
 
 ## 🎓 Certifications
 
-- Ten [Anthropic Certificates][anthropic-courses]
+- Twelve [Anthropic Certificates][anthropic-courses]
 - Two [Oracle Academy Certificates][oracle-academy-courses]
 - Two [LinkedIn Learning Certificates][linkedin-courses]
 
